@@ -42,7 +42,7 @@ export default function Hero() {
 
         {/* 🌟 Animated Download CV Button with Icon */}
         <motion.a
-          href="/Aseka Zeph rsm.pdf"
+          href="/Zephaniah_Aseka_Software_engineer.pdf"
           download="Zeph_Aseka_CV"
           className="relative border border-blue-500 px-6 py-3 rounded-lg text-blue-400 overflow-hidden group flex items-center justify-center gap-2"
           whileHover={{ scale: 1.05 }}
