@@ -4,14 +4,14 @@ const projects = [
   {
     title: "Dreamscape Realty",
     description:
-      "A real estate management system featuring fraud detection, personalized search, and secure transactions.",
-    tech: "React, Supabase, ML",
+      "A real estate management system featuring fraud detection, AI chatbot search, secure transactions, Property management and 3D virtual tours",
+    tech: "Django, Supabase, ML, ",
   },
   {
-    title: "Online Banking System",
+    title: "SiteLink Logistics",
     description:
-      "A secure online banking platform built for efficient transactions and account management.",
-    tech: "Python, Flask, MySQL",
+      "A Transportation logistics platform for shipping medium-sized goods to construction sites and real-time tracking of routes",
+    tech: "Python, Django, MySQL",
   },
   {
     title: "LMS App",
