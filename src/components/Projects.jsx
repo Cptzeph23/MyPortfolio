@@ -4,7 +4,7 @@ const projects = [
     {
     title: "Nexus-POS",
     description:
-      "A smart easy to use and user-friendly Point of Sale System (POS) built foe stock management, inventory management, realtime receipt generation and printing",
+      "A smart easy to use and user-friendly Point of Sale System (POS) built for stock management, inventory management, realtime receipt generation and printing",
     tech: "Node.js, TypeScript, ",
   },
     {
@@ -24,6 +24,12 @@ const projects = [
     description:
       "A comprehensive Learning Management System with attendance, grading, and notifications using React Native and Supabase.",
     tech: "React Native, Supabase, TypeScript",
+  },
+    {
+    title: "Surfpass Wi-fi",
+    description:
+      "A Free hotspot wifi captive portal for subscription-based wi-fi access which captures device Mac Address, subscription duration and discount on frequent subscription",
+    tech: "Django, JavaScript, React",
   },
 ];
 
