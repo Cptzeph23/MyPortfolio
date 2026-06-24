@@ -1,11 +1,23 @@
 import { motion } from "framer-motion";
 
 const projects = [
+    {
+    title: "Nexus-POS",
+    description:
+      "A smart easy to use and user-friendly Point of Sale System (POS) built foe stock management, inventory management, realtime receipt generation and printing",
+    tech: "Node.js, TypeScript, ",
+  },
+    {
+    title: "Site-Link Logistics",
+    description:
+      "A shipment logistics platform for enabling transportation of medium-sized construction materials from manufacturing sites or wholesale hardwares to construction sites. It implements Google Maps APIs for tracking delivery and transportaion routes ensuring transparency and timely delivery of products",
+    tech: "Next.js, TailwindCSS, Supabase, Google Maps API, Mpesa-Daraja,Cloudinary(file storage) ",
+  },
   {
-    title: "Dreamscape Realty",
+    title: "Quishi_Ke",
     description:
       "A real estate management system featuring fraud detection, AI chatbot search, secure transactions, Property management and 3D virtual tours",
-    tech: "Django, Supabase, ML, ",
+    tech: "Django,Next.js, Supabase, ML, ",
   },
   {
     title: "SiteLink Logistics",
