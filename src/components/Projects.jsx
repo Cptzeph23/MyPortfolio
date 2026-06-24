@@ -31,6 +31,12 @@ const projects = [
       "A Free hotspot wifi captive portal for subscription-based wi-fi access which captures device Mac Address, subscription duration and discount on frequent subscription",
     tech: "Django, JavaScript, React",
   },
+       {
+    title: "TradeMaster",
+    description:
+      "A forex trading bot with regulated parameters, prediction and fail-safe implementation ensuring 60% success rate and automatic stop when trades start losing",
+    tech: "Django, PostgreSQL, Redis, Celery, OANDA, MT5, Pandas, Numpy, Vectorbt, React",
+  },
 ];
 
 export default function Projects() {
