@@ -20,16 +20,10 @@ const projects = [
     tech: "Django,Next.js, Supabase, ML, ",
   },
   {
-    title: "SiteLink Logistics",
-    description:
-      "A Transportation logistics platform for shipping medium-sized goods to construction sites and real-time tracking of routes",
-    tech: "Python, Django, MySQL",
-  },
-  {
     title: "LMS App",
     description:
-      "A Learning Management System with attendance, grading, and notifications using React Native and Supabase.",
-    tech: "React Native, Supabase",
+      "A comprehensive Learning Management System with attendance, grading, and notifications using React Native and Supabase.",
+    tech: "React Native, Supabase, TypeScript",
   },
 ];
 
