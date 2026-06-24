@@ -5,7 +5,7 @@ const projects = [
     title: "Nexus-POS",
     description:
       "A smart easy to use and user-friendly Point of Sale System (POS) built for stock management, inventory management, realtime receipt generation and printing",
-    tech: "Node.js, TypeScript, ",
+    tech: "Node.js, Next.js, TailwindCSS, TypeScript, Supabase ",
   },
     {
     title: "Site-Link Logistics",
