@@ -18,9 +18,11 @@ export default function About() {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        I’m a dedicated Software Engineer passionate about developing high-quality web and mobile applications with Agile methodologies.
-        I specialize in full-stack development, with hands-on experience in <strong>React</strong>, <strong>Python Django</strong>, <strong>Bootstrap</strong> and <strong>Supabase (PostgreSQL)</strong>.
-        I enjoy building systems that are intuitive, reliable, and scalable — combining clean code with modern design.
+        A result-driven software engineer with over 2+ years of experience in backend development, system integration,
+        cloud deployment and technical support. Experienced in working within structured and regulated environments implementing 
+        system updates, maitaining production systems, collaborating across teams and utilizing GitHub, CI/​CD and cloud platforms
+        (Azure & AWS). Posses a solid foundation and growing experience in Node.js backend and desktop application development..
+
       </motion.p>
     </section>
   );
