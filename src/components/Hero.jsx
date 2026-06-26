@@ -23,7 +23,7 @@ export default function Hero() {
         transition={{ delay: 0.5, duration: 1 }}
       >
         A passionate Software Engineer specializing in full-stack web development —
-        building efficient, secure, and elegant digital solutions.
+        building efficient, secure, and elegant digital solutions with modern technologies.
       </motion.p>
 
       <motion.div
